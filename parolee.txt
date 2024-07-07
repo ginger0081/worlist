@@ -668,7 +668,6 @@ gru
  cupola
  asilo
  rollerblade
- spaventapasseri
  vaso
  panna
  felpa
@@ -1231,7 +1230,6 @@ anziano
 uvetta
 lavanda
 wrestler
-jerry mouse
 stop
 fungo
 formica
@@ -1713,22 +1711,7 @@ ambra
 gnocchi
 community
 triceratopo
-high school
-closed
-roadblock
-thanos
 iron man
-pitchfork
-blow up
-cola
-tower of pisa
-seal
-hedge
-float
-gummy
-copper
-eyelid
-cheese
 fontana
 tagliatelle
 kilt
@@ -2047,7 +2030,6 @@ cucinare
 chioma
 relazione
 leonardo da vinci
-tower bridge
 nano
 superman
 menta
@@ -2067,4 +2049,343 @@ quadrato
 bart simpson
 anubis
 autografo
-
+casa per uccelli
+modello
+urlo
+picca
+mohawk
+lince
+minestra
+semicerchio
+felino
+edificio
+discord
+bioma
+nuova zelanda
+prateria
+baobab
+falafel
+chirurgo
+registrare
+gomma da masticare
+mantide
+punizione
+mina
+sbadiglio
+acciaio
+graffiti
+grande barriera corallina
+gucci
+tastierino
+nord
+forbici
+grafite
+london eye
+laser
+famiglia
+mirtillo
+retta
+cavernicolo
+nuotatore
+padre
+correre
+ghiaia
+calzini
+tamburo
+tatuaggio
+diamante
+teleferica
+panino
+pipistrello
+caramella
+bigfoot
+barboncino
+foglio
+cipolla
+argentina
+globo
+telecomando
+stress
+fiocco
+brufolo
+esame
+spray
+firefox
+cuore
+carta da parati
+monaco
+scarabeo
+brocca
+ammaccatura
+azione
+baguette
+gruccia
+loki
+pretzel
+algeria
+scintilla
+ukulele
+lanterna verde
+gumball
+laccio della scarpa
+hobbit
+karate
+stilista
+limbo
+tacchi alti
+tagliaerba
+broadway
+conchiglia
+vasca per pesci
+ferito
+slovacchia
+agente
+tumore
+abito
+gradino
+affamato
+muffin
+gelatina
+rastrello
+pila
+harry potter
+dessert
+laboratorio
+pringles
+pantaloni
+viaggio
+castello di sabbia
+velenoso
+attore
+tagliere
+brownie
+croissant
+velo
+stagno
+cat woman
+passeggino
+alveare
+boia
+virus
+ferrari
+petalo
+grilletto
+veicolo
+quadro
+cibo spazzatura
+satellite
+tombino
+flauto
+posta
+clickbait
+righello
+giornalista
+proiettile
+disastro
+volto
+cespuglio
+acido
+orango
+magione
+zoccolo
+lucertola
+figurina
+yo-yo
+il paese delle meraviglie
+lavare
+braccio
+fred flintstone
+zoom
+spina dorsale
+asciugacapelli
+macellaio
+stomaco
+biologia
+dirigibile
+osservatorio
+guanto da forno
+scopa
+ninja
+frankenstein
+mocio
+creeper
+assegno
+fondale
+star wars
+formaggio
+chuck norris
+sovrappeso
+obbiettivo
+petto
+befana
+vicino
+damiera
+teschio
+domino
+chinato
+sfinge
+pagina
+fionda
+wafer
+sacco
+mercurio
+labbra
+pistacchio
+peloso
+svezia
+madre
+folletto
+erbivoro
+nintendo switch
+canne
+concerto
+intervista
+castoro
+recitazione
+angolo
+industria
+winnie the pooh
+trifoglio
+arare
+piatto
+evoluzione
+calderone
+sussurro
+paparazzi
+test
+record
+pollice
+zucchero filato
+sciame
+stocco
+canale di suez
+fantasticare
+cibo
+tazza
+plankton
+investigatore
+taglio
+oroscopo
+pulce
+topolino
+futuro
+arrosticino
+muro
+visione
+stendibiancheria
+cassaforte
+flash
+gallina
+basette
+squadra
+tappeto
+strega
+mago
+scimmia
+aerosol
+cannone
+copia
+lozione
+skype
+puntare
+anatomia
+fidget spinner
+testa
+bagno
+cerchietto
+maccheroni
+pompei
+letto a castello
+cerchio
+remo
+lupo
+frutteto
+spaventoso
+calendario
+web
+mais
+insegnante
+asino
+deadpool
+firma
+piercing al naso
+pulire
+canzone
+tigre
+isola di pasqua
+spago
+kazoo
+groenlandia
+aereo di carta
+autostrada
+tampone
+archeologo
+morso
+fallimento
+bere
+frustino
+avvoltoio
+uganda
+dollaro
+vacanza
+insonnia
+pantofole
+minion
+guasto
+classe
+oltretomba
+rapper
+nichel
+telefono
+crogiuolo
+umido
+cappuccino
+ruga
+hot dog
+girasole
+sale
+picasso
+rasoio
+ceppo
+urano
+cartone
+allergia
+uluru
+giorno
+doppio
+congelamento
+anulare
+annuario
+sud
+presente
+fiume
+bmw
+sottile
+generatore
+barista
+drone
+oasi
+carnivoro
+condizionatore
+acqua
+pumbaa
+cavalletta
+cacao
+geroglifico
+audio
+carro attrezzi
+pagnotta
+aperto
+sparo
+dinosauro
+pagliaccio
+manzo
+bibbia
+rana pescatrice
+cacciavite
+padrone di casa
+donald trump
+maggiordomo
+cracker
+playstation
+preside

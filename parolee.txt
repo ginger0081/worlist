@@ -19,11 +19,11 @@ gru
  piede
  manica
  maglia
- Peppa Pig
- Lecca Lecca
- Pesce Rosso
- Pesce Palla
- Parete
+ peppa pig
+ lecca lecca
+ pesce rosso
+ pesce palla
+ parete
  picchio
  dentista
  bambola
@@ -50,7 +50,7 @@ gru
  budino
  volume
  contadino
- Leonardo DiCaprio
+ leonardo dicaprio
  guidare
  porto
  ponte
@@ -89,7 +89,7 @@ gru
  graffio
  Gumball
  pesce
- Dio
+ dio
  orecchino
  bouquet
  tomba
@@ -116,26 +116,26 @@ gru
  arpione
  betulla
  arciere
- Minion
+ minion
  affanno
  fotografo
  lime
  erbacce
- Olaf
- Hamburger
- Cheeseburger
+ olaf
+ hamburger
+ cheeseburger
  bianco
  niente
  faro
  arbitro
  fluido
  cannuccia
- Jackie Chan
+ jackie Chan
  avanti veloce
  grattacielo
  atlantide
  torre
- Steve Jobs
+ steve Jobs
  cast
  iena
  neve
@@ -172,7 +172,7 @@ gru
  suora
  credito
  ventilatore
- Mercedes
+ mercedes
  palla da basket
  musica
  talpa
@@ -183,7 +183,7 @@ gru
  spoiler
  arte
  leopardo
- Iron Man
+ iron Man
  equatore
  cassa
  scaffale
@@ -204,7 +204,7 @@ gru
  grata
  biglia
  boxe
- Muro di berlino
+ muro di berlino
  mar morto
  corsia
  sera
@@ -230,7 +230,7 @@ gru
  cioccolato
  dentista
  skribbl.io
- Teatro dell'Opera di Sidney
+ teatro dell'opera di sidney
  Cenerentola
  Regina
  orto
@@ -247,7 +247,7 @@ gru
  abortire
  ombrello
  water
- Godzilla
+ godzilla
  pub
  altalena
  ape
@@ -258,7 +258,7 @@ gru
  ombra
  rolex
  funivia
- Winnie The Pooh
+ winnie The Pooh
  seminterrato
  fioraio
  aglio
@@ -288,7 +288,7 @@ gru
  calcio
  barriera corallina
  libro
- Wall-e
+ wall-e
  Intel
  costola
  auto elettrica
@@ -308,11 +308,11 @@ gru
  collasso
  arrampicata
  sventolare
- Gucci
+ gucci
  ombretto
  rotolare
- Vault boy
- Fanta
+ vault boy
+ fanta
  crostata
  apriscatole
  serpente a sonagli
@@ -325,8 +325,8 @@ gru
  vodka
  livellatrice
  film
- Zelda
- Inferno
+ zelda
+ inferno
  biancaneve
  infiammare
  elastico
@@ -340,24 +340,24 @@ gru
  pinzatrice
  goleador
  kendama
- Shrek
- Chuck Norris
+ shrek
+ chuck Norris
  iena
  giocattolo
  incollare
  waffle
- Excalibur
+ excalibur
  principessa
  duello
  ferro
  vaccino
- Sonic
+ sonic
  tamponare
  parcheggio
  valigetta
  trio
  koala
- Oktoberfest
+ oktoberfest
  magnete
  bendato
  pennarello
@@ -368,8 +368,8 @@ gru
  violino
  zucca di halloween
  suoneria
- Jimmy Neutron
- Carta di credito
+ jimmy Neutron
+ carta di credito
  pegaso
  furetto
  becco

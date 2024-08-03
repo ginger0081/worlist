@@ -7,14 +7,14 @@ gru
  ombrellone
  fiammifero
  fazzoletto
- Atena
+ atena
  barca
  baffi
  corna
  sturalavandini
  appendiabiti
- Messico
- Italia
+ messico
+ italia
  lingua
  piede
  manica
@@ -63,7 +63,7 @@ gru
  champagne
  ala
  stadio
- Dumbo
+ dumbo
  apocalisse
  uovo
  triciclo
@@ -87,7 +87,7 @@ gru
  cacca
  orsacchiotto
  graffio
- Gumball
+ gumball
  pesce
  dio
  orecchino
@@ -130,12 +130,12 @@ gru
  arbitro
  fluido
  cannuccia
- jackie Chan
+ jackie chan
  avanti veloce
  grattacielo
  atlantide
  torre
- steve Jobs
+ steve jobs
  cast
  iena
  neve
@@ -183,7 +183,7 @@ gru
  spoiler
  arte
  leopardo
- iron Man
+ iron man
  equatore
  cassa
  scaffale
@@ -219,7 +219,7 @@ gru
  appunti
  chimico
  regalo
- Finn
+ finn
  polpettone
  erba
  polpettone
@@ -231,8 +231,8 @@ gru
  dentista
  skribbl.io
  teatro dell'opera di sidney
- Cenerentola
- Regina
+ cenerentola
+ regina
  orto
  mandarino
  pizza
@@ -258,7 +258,7 @@ gru
  ombra
  rolex
  funivia
- winnie The Pooh
+ winnie the pooh
  seminterrato
  fioraio
  aglio
@@ -266,8 +266,8 @@ gru
  barbabietola
  ombrello
  ghianda
- I Beatles
- Somalia
+ i beatles
+ somalia
  coperta
  arte
  cintura
@@ -289,7 +289,7 @@ gru
  barriera corallina
  libro
  wall-e
- Intel
+ intel
  costola
  auto elettrica
  carta
@@ -304,7 +304,7 @@ gru
  turbante
  spazzatura
  tartaruga
- Las Vegas
+ las vegas
  collasso
  arrampicata
  sventolare
@@ -334,14 +334,14 @@ gru
  binocolo
  voto
  pancia
- Pinocchio
+ pinocchio
  scorrere
  mozzarella
  pinzatrice
  goleador
  kendama
  shrek
- chuck Norris
+ chuck norris
  iena
  giocattolo
  incollare
@@ -368,7 +368,7 @@ gru
  violino
  zucca di halloween
  suoneria
- jimmy Neutron
+ jimmy neutron
  carta di credito
  pegaso
  furetto
@@ -396,7 +396,7 @@ gru
  idea
  evidenziatore
  arco
- Monte Fuji
+ monte fuji
  melanzana
  narici
  glitter
@@ -419,7 +419,7 @@ gru
  internet
  campana
  spada
- Terminator
+ terminator
  cactus
  bonsai
  anguria
@@ -428,7 +428,7 @@ gru
  occidentale
  montagna
  cobra
- Kirby
+ kirby
  salvadanaio
  borraccia
  maschera
@@ -497,7 +497,7 @@ gru
  smartphone
  capricorno
  sabbie mobili
- Iran
+ iran
  osso sacro
  spazzatura
  origami
@@ -533,7 +533,7 @@ gru
  scacchi
  triste
  canile
- Grand Canyon
+ grand canyon
  wolverine
  equatore
  tartaruga
@@ -2788,7 +2788,7 @@ tip tap
 big ben
 van gogh
 bob ross
-mr. Bean
+mr. bean
 jet pack
 cat woman
 mar morto
@@ -2797,7 +2797,7 @@ taj mahal
 via lattea
 vin diesel
 era glaciale
-mr. Miguardi
+mr. miguardi
 wall-e
 kung fu
 sito web
@@ -2903,7 +2903,7 @@ cuore spezzato
 pasta biscotto
 carta igienica
 monte rushmore
-Susan wojcicki
+susan wojcicki
 carro attrezzi
 segno zodiacale
 crash bandicoot
@@ -2973,7 +2973,7 @@ charlie chaplin
 michael jackson
 abraham lincoln
 william wallace
-Stephen Hawking
+stephen hawking
 circolo vizioso
 strisce pedonali
 foresta pluviale
@@ -3129,7 +3129,7 @@ età della pietra
 casa delle bambole
 gatto delle nevi
 cassa degli attrezzi
-racchettada tennis
+racchetta da tennis
 biglietto da visita
 grande barriera corallina
 medico della peste

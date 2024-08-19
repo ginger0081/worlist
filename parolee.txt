@@ -891,7 +891,8 @@ gru
  becchino
  mulinello
  ipnosi
- nazione  orbita
+ nazione  
+ orbita
  arteria
  vaniglia
  felce
@@ -2817,8 +2818,8 @@ star wars
 moby dick
 loch ness
 taco bell
-mela d’oro
-uovo d’oro
+mela d'oro
+uovo d'oro
 bugs bunny
 luna piena
 osso sacro
@@ -2827,8 +2828,8 @@ bill gates
 casa bianca
 nave pirata
 orso polare
-gesù cristo
-moto d’acqua
+gesu cristo
+moto d'acqua
 filo spinato
 bart simpson
 lupo mannaro
@@ -2844,7 +2845,7 @@ cibo spazzatura
 mark zuckerberg
 rana pescatrice
 fred flintstone
-casa sull’albero
+casa sull'albero
 raggi x
 pizza hut
 peppa pig
@@ -2909,11 +2910,11 @@ segno zodiacale
 crash bandicoot
 pesce pagliaccio
 ruota panoramica
-ciclo dell’acqua
-torre dell’acqua
-burro d’arachidi
+ciclo dell'acqua
+torre dell'acqua
+burro d'arachidi
 palla demolitrice
-lented’ingrandimento
+lente d'ingrandimento
 london eye
 scooby doo
 guitar hero
@@ -2933,7 +2934,7 @@ johnny bravo
 codice morse
 donald trump
 barack obama
-tromba d’aria
+tromba d'aria
 sabbie mobili
 stella marina
 avanti veloce
@@ -2956,7 +2957,7 @@ tristo mietitore
 darwin watterson
 cabina telefonica
 centro commerciale
-fuochi d’artificio
+fuochi d'artificio
 nastro trasportatore
 venere acchiappamosche
 pantera rosa
@@ -2967,7 +2968,7 @@ pentola d’oro
 sistema solare
 capitan america
 rifiuti tossici
-pistola d’acqua
+pistola d'acqua
 orsetto gommoso
 charlie chaplin
 michael jackson
@@ -3140,7 +3141,8 @@ incantatore di serpenti
 soffiatore a scoppio
 il gigante di ferro
 gatto con gli stivali
-mamma ho perso l’aereo
+mamma ho perso l'aereo
 teatro dell'opera di sidney
 il paese delle meraviglie
 macchina da scrivere
+eta

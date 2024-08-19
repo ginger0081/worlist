@@ -2872,7 +2872,7 @@ darth vader
 panda rosso
 paesi bassi
 regno unito
-penna d’oca
+penna d'oca
 pesce rosso
 parco giochi
 harry potter
@@ -2928,7 +2928,7 @@ blocco notes
 social media
 wonder woman
 donald trump
-catena d’oro
+catena d'oro
 patata dolce
 johnny bravo
 codice morse
@@ -2964,7 +2964,7 @@ pantera rosa
 vernice spray
 tappeto rosso
 pioggia acida
-pentola d’oro
+pentola d'oro
 sistema solare
 capitan america
 rifiuti tossici
@@ -3093,7 +3093,7 @@ scatola di fiammiferi
 serpente a sonagli
 occhiali da sole
 piercing al naso
-bustina del tè
+bustina del te
 crostata di mele
 orologio da polso
 leonardo da vinci
